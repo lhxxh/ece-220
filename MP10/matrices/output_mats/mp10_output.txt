@@ -1,0 +1,14 @@
+calling load_lils on "matrices/input_mats/scrambled_rows.txt":
+12 8 nz:0
+calling load_lils on "matrices/input_mats/scrambled_rows_large.txt":
+50000 50000 nz:0
+calling load_lils on "matrices/input_mats/withZeroes.txt":
+15 15 nz:0
+a_Ct = a_A+a_B addition in lils:
+8 4 nz:0
+sa_Ct = sa_A+sa_B sparse addition in lils:
+400 410 nz:0
+sla_C = sla_A+sla_B sparse addition in lils:
+10000 10000 nz:0
+Saving output matrices... 
+freeing matrices from memory..
